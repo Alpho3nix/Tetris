@@ -1,0 +1,5 @@
+unit block size : 23 x 23
+
+game window dimensions : 10 * 23 x 20 * 23
+
+buttons: dimension : 173 x 70
